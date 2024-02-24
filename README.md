@@ -1,6 +1,7 @@
 # Internship 2024 (Riktam Technologies)
 
 Steps to boot up the project:
+
     1. Clone repo at "sumitriktam/zerowaste".
     2. cd into zerowaste directory.
     3. activate venv using the command "venv/Scripts/activate".
